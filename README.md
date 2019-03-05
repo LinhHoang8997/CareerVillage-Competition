@@ -15,6 +15,6 @@ I opted to do this via Power BI, due to its efficient built-in Relationship View
 </a>
 
 
-### Step 2 - Ongoing: Building dataframes in Python
+### Step 2: Construct dataframes in Python ~ _Ongoing_
 
-### Step 3 - Future: Select appropriate models
+### Step 3: Process/clean textual data ~ _Future_
