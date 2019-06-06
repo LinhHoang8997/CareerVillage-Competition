@@ -14,7 +14,10 @@ I opted to do this via Power BI, due to its efficient built-in Relationship View
  <img src="https://i.ibb.co/KGcXJ7g/careervillage-pbi.png" alt="careervillage-pbi" width=500 border="1">
 </a>
 
+NOTE: After trials and errors, I believe that I need to brush up on Machine Learning foundation through coursework, before continuing with this project. The competition was also over, so there is time to learn. I will continue with Step 2,3, and 4 after I complete the Machine Learning course from Stanford University.
 
-### Step 2: Construct dataframes in Python ~ _Ongoing_
+### Step 2: Construct dataframes in Python 
 
-### Step 3: Process/clean textual data ~ _Future_
+### Step 3: Process/clean textual data
+
+### Step 4: Create a predictive model
