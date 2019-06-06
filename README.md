@@ -16,8 +16,7 @@ I opted to do this via Power BI, due to its efficient built-in Relationship View
 
 NOTE: After trials and errors, I believe that I need to brush up on Machine Learning foundation through coursework, before continuing with this project. The competition was also over, so there is time to learn. I will continue with Step 2,3, and 4 after I complete the Machine Learning course from Stanford University.
 
+TO BE CONTINUED
 ### Step 2: Construct dataframes in Python 
-
 ### Step 3: Process/clean textual data
-
 ### Step 4: Create a predictive model
